@@ -1,4 +1,4 @@
-# RocketFy
+# RocketFy (with drag n' drop)
 RocketFy is a clone the <a hfre="https://www.pipefy.com/pt-br/">pipefy'</a> interface
 
 Tutorial Video: https://www.youtube.com/watch?v=awRtgpRsdTQ
